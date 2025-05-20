@@ -1,0 +1,9 @@
+APIs: Use PSP APIs for both inbound (wallet loads) and outbound (payouts).
+
+Tokenization & PCI Compliance: Essential if cards are stored in the wallet.
+
+Settlement Reports: Needed from both acquirer and PSP for reconciliation.
+
+Fraud Management: Integrated fraud filters from PSP and fintech partners.
+
+Regulatory Compliance: Ensure KYC/AML for wallets and payouts (especially for cash).
